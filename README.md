@@ -10,7 +10,7 @@ This Python script provides a simple graphical user interface (GUI) using Tkinte
 
 ## Installation
 
-1. Clone the repository or download the script [date_picker_calendar.py](date_picker_calender.py) to your local machine.
+1. Clone the repository or download the script [date_picker_calendar.py](date_picker_calendar.py) to your local machine.
 
 2. Install the required dependencies using the following command:
 ```commandline
